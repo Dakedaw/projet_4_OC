@@ -822,7 +822,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
@@ -1039,4 +1039,38 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.text-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title {
+    width: 60%;
+    font-size: 20px;
+    font-family: Georgia, serif;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.citation {
+    width: 80%;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pdg {
+    font-size: 20px;
+    font-family: Georgia, serif;
+}
+
+.title2 {
+    width: 50%;
+    font-size: 25px;
+    font-family: Georgia, serif;
 }
