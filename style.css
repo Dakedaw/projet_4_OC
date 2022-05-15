@@ -778,7 +778,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #FFB187;
-    color: #FFFFFF;
+    color: #333333;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1106,6 +1106,7 @@ h4 {
 
 .link {
     text-decoration: underline;
+    color: #000000;
 }
 
 .link:hover {
